@@ -10,8 +10,10 @@
 <h3>Легкие вопросы, для освежения памяти.</h3>
 <br/>
 
-<form action="/start" method="post">
-    <input type="text" name="name" placeholder="Введите свое имя" />
+<form action="start" method="post">
+    <label>
+        <input type="text" name="name" placeholder="Введите свое имя" />
+    </label>
     <input type="submit" value="Go to game" />
 </form>
 </body>
