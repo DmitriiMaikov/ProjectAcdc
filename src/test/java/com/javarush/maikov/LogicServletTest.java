@@ -11,7 +11,7 @@ import java.util.Map;
 
 import static org.mockito.Mockito.*;
 
-class LogicServletIT {
+class LogicServletTest {
     @Mock
     private HttpServletRequest request;
     @Mock

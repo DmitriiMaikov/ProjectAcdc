@@ -12,7 +12,7 @@ import org.mockito.MockitoAnnotations;
 import static org.mockito.Mockito.*;
 
 
-class InitServletIT {
+class InitServletTest {
     @Mock
     private HttpServletRequest request;
     @Mock

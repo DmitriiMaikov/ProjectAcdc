@@ -13,7 +13,7 @@ import java.util.Map;
 
 import static org.mockito.Mockito.*;
 
-class ControllerServletIT {
+class ControllerServletTest {
     @Mock
     private HttpServletRequest request;
     @Mock
